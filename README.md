@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @austinwindsor
-- 👀 I’m interested in network science, natural language processing, bioinformatics, mycology, and ecology
-- 🌱 I’m currently learning Java, Python, Network Science, and Software Development Process via the Masters of Science in Computer Science at GaTech
-- 📫 How to reach me: Don't :)
+- 👀 I’m interested in network science, llms, bioinformatics, mycology
+- 🌱 I’m currently learning network science applications and agentic workflows
 
 <!---
 austinwindsor/austinwindsor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
